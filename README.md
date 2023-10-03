@@ -1,4 +1,4 @@
 # Demo-Project
 This is my first Repository
 <br>
-Author - Kapil Mohod
+Author - Kapil Dinkar Mohod
